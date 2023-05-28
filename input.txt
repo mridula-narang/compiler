@@ -1,0 +1,21 @@
+/*20ETCS002080 Mridula G. Narang*/
+void main()
+{	int a,b,c;
+  	if(a)
+	{
+		int a;
+	}
+	for(int i=0;i<n;i++)
+	{
+		int a;
+	}
+	while(i<n)
+	{
+	}
+	b=89-45;
+	/*20ETCS002080*/
+	int c(5);
+	printf(/HelloWorld/);
+	scanf(/%d/,&a);
+}
+/*20ETCS002080 Mridula G. Narang*/
